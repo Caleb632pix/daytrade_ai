@@ -1,4 +1,3 @@
-xgboost>=2.0
-ta>=0.11
 Flask
-pip freeze > requirements.txt
+requests
+python-dotenv
